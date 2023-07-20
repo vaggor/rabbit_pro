@@ -1,0 +1,8 @@
+.model-header-color {
+    color: #1e6641;
+    background-color: #d8f3e5;
+    border-color: #c8eedb;
+}
+
+.datepicker {z-index: 9999999 !important}
+
